@@ -15,8 +15,11 @@ Projects in this organization typically:
 
 ## Current projects
 
-- **Section Tally Cleaner**
-  - A Streamlit app that cleans and standardizes section tally spreadsheets for reporting and analysis
+
+ **Section Tally Cleaner**
+  - A Streamlit app that cleans and standardizes section tally spreadsheets for reporting and analysis  
+  - https://github.com/academic-admin-tools/section-tally-cleaner
+
 
 Additional tools will be added over time as workflows are formalized.
 
